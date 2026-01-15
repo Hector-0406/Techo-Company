@@ -1,0 +1,15 @@
+{
+  "plataforma": "Techo Company",
+  "proveedor": "Lerma Tech",
+  "ultima_actualizacion": "2026-01-14",
+  "aplicaciones": [
+    {
+      "id": 1,
+      "nombre": "App Ejemplo 1",
+      "version": "1.0.2",
+      "desarrollador": "Lerma Tech",
+      "url_apk": "https://github.com/Hector-0406/Techo-Company/raw/main/apks/app1.apk",
+      "categoria": "Utilidades"
+    }
+  ]
+}
